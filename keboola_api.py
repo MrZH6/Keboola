@@ -5,7 +5,7 @@ import json
 from azure.storage.blob import BlobClient
 from time import sleep
 
-KBC_API_Assignment_token = '2448-14811-gQlUv5Y4J6reTWv6bdesh4dMqQ6uLg8lw1320D6U'
+KBC_API_Assignment_token = 'xxx'
 
 # Source filename (including path)
 filePath = "D:\\Dokumenty\\15 - IT\\Keboola\\kbc_api_assignment.csv"
